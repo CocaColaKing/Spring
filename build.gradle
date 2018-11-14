@@ -45,6 +45,9 @@ dependencies {
     compile group: 'org.springframework', name: 'spring-instrument', version: '4.3.20.RELEASE'
 // https://mvnrepository.com/artifact/org.springframework/spring-instrument-tomcat
     compile group: 'org.springframework', name: 'spring-instrument-tomcat', version: '4.3.20.RELEASE'
+    // https://mvnrepository.com/artifact/javax.inject/javax.inject
+    compile group: 'javax.inject', name: 'javax.inject', version: '1'
+
 
 
 }
